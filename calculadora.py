@@ -1,4 +1,4 @@
-def sumar(a, b):
-    return a + b
+def restar(a, b):
+    return a - b
 
-print(sumar(3, 4))
+print(restar(5, 2))
