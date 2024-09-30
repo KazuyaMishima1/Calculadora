@@ -1,4 +1,4 @@
-def restar(a, b):
-    return a - b
+def multiplicar(a, b):
+    return a * b
 
-print(restar(5, 2))
+print(multiplicar(2, 3))
